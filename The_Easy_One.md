@@ -1,2 +1,6 @@
-In this the task was to scan a qr which for which i used steganography tools 
-and got the flag
+## OBJECTIVE
+Needed to crack the QR
+
+## PROCEDURE
+- Used online steganography tool to crack the QR
+- Scanned it and got the flag
